@@ -86,7 +86,7 @@ public class NamespaceApiExample {
 
 ## Documentation for API Endpoints
 
-All URIs are relative to *http://localhost:1994*
+All URIs are relative to *https://daca-spaqrl-processor.herokuapp.com/*
 
 Class | Method | HTTP request | Description
 ------------ | ------------- | ------------- | -------------

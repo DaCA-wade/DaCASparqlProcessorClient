@@ -1,6 +1,6 @@
 # NamespaceApi
 
-All URIs are relative to *http://localhost:1994*
+All URIs are relative to *https://daca-spaqrl-processor.herokuapp.com/*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
